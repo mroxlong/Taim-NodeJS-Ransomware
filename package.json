@@ -1,17 +1,16 @@
 {
   "name": "taim",
   "version": "1.0.0",
-  "description": "",
+  "description": "taim NodeJS ",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "nexe-help": "nexe -h",
-    "build": "nexe -t x86-8.0.0",
+    "build": "node compile",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Dylan Westraadt",
   "license": "ISC",
   "dependencies": {
     "aes-encryption": "^1.0.4",
