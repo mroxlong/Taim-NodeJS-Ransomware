@@ -33,11 +33,6 @@ You can only run the exe in the same directory
 #### Set it to Hide All and Unpack to a temp dir
 ![deo4](https://user-images.githubusercontent.com/106468433/184551555-41c80c8e-9559-49c1-9983-e991f02b0504.PNG)
 #### Just copy this 
-
-
-
-
-There is no decrytion on purpose...just malicious
 ![demo6](https://user-images.githubusercontent.com/106468433/184551369-cc2ff193-9604-4c16-864b-aed09deb0bcd.PNG)
 #### If you want to make this look like a png you can specify that here
 ![demo7](https://user-images.githubusercontent.com/106468433/184551372-3882d092-e7a5-4155-ae33-50a2de829e28.PNG)
@@ -45,3 +40,8 @@ There is no decrytion on purpose...just malicious
 ##### RESULTS
  Something usefull
 ![results](https://user-images.githubusercontent.com/106468433/184551374-d7f4e5cd-1c22-4290-b76c-209ae48bd8ed.PNG)
+
+
+
+
+There is no decrytion on purpose...just malicious
