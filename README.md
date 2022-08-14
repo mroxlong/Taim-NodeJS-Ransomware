@@ -1,5 +1,7 @@
 # Taim NodeJS Ransomware 
  ![download](https://user-images.githubusercontent.com/106468433/184550747-1d5b5bd3-716f-49f1-997a-e45a5f064e94.png)
+ 
+# I TAKE NO RESPONSIBILITY FOR ANY DATA LOSS, OR MUTATIONS THAT MAY OCCUR
 ## Use: 
 ### To compile:
 ```
