@@ -1,0 +1,22 @@
+{
+  "name": "taim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "nexe-help": "nexe -h",
+    "build": "nexe -t x86-8.0.0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes-encryption": "^1.0.4",
+    "nexe": "^4.0.0-rc.1",
+    "promisify": "^0.0.3",
+    "wallpaper": "^6.1.1"
+  }
+}
