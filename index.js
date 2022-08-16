@@ -12,7 +12,6 @@ const user = os.userInfo().username
 //this is the root of your testing folder...tweak as needed 
 const TARGETS = [
     `C:\\Users\\${user}\\taimtest`,
-
 ]
 
 const execFile = promisify.promisify(cp.execFile);
